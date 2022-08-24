@@ -7,7 +7,7 @@ import user from './Profile/user.json';
  import friends from './FriendList/friends.json';
  import transactions from './TransactionHistory/transactions.json';
  import { Box } from './Box';
- import { GlobalStyle } from './GlobalStyle';
+ 
 
  export const App = () => {
    return (
